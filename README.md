@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WPAccess, a passionate WordPress developer and enthusiast.
+- 👋 Hi, I’m Abhishek, a passionate problem solver.
 - 👀 I’m interested in everything WordPress—site creation, maintenance, plugin development, and theme customization. I also have a keen interest in eCommerce solutions and integrating various web technologies.
 - 🌱 I’m currently expanding my knowledge in advanced WordPress development, exploring the latest trends in web design, and diving into WooCommerce and other eCommerce platforms. Additionally, I’m learning about seamless integrations between WordPress and third-party systems like CRMs and payment gateways.
 - 💼 I’m the mind behind WP Access (wpaccess.in), a brand dedicated to providing top-notch WordPress services, from building dynamic websites to maintaining and enhancing existing sites.
